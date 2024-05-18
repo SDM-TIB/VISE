@@ -37,6 +37,6 @@ Lastly, ```path_to_results``` is parameter given by user to store the trained mo
 ```python
 python kge_vise.py 
 ```
-`Note: KGE models are trained in Python 3.9 and executed in a virtual machine on Google Colab with 16 GiB VRAM and 1
-GPU NVIDIA Tesla 𝑇 4, with CUDA Version 12.0 (Driver 525.105.17) and PyTorch (v2.0.1).`
+`Note: KGE models are trained in Python 3.9 and executed in a virtual machine on Google Colab with 40 GiB VRAM and 1
+GPU NVIDIA A100 SMX-4, with CUDA Version 12.2 (Driver 525.104.05) and PyTorch (v2.0.1).`
 
