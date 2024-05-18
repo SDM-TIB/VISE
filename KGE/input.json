@@ -1,0 +1,6 @@
+{
+  "Type": "Baseline",
+  "KG": "./benchmarks/KG1/baseline1.tsv",
+  "model": ["TransE", "TransH","TransD","RotatE"],
+  "path_to_results": "./Results/Baseline1/"
+}
