@@ -10,7 +10,7 @@ import re
 import os
 import time
 from validation import travshacl
-from Transformation_updated import transform
+from Transformation import transform
 
 
 def load_graph(file):
