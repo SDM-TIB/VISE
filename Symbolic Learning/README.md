@@ -1,4 +1,4 @@
-##Knowledge Graph
+## Knowledge Graph
 SynLC [1] models lung cancer patient data. Each patient has the following attributes:
 
 Age category
